@@ -20,7 +20,8 @@ The project is split into two parts:
 
 ### 1. Setup YouTube Data API Key
 
-To begin, you will need to create a YouTube Data API Key, which serves as the credential for accessing YouTube data. Follow [this link](https://console.cloud.google.com/) to generate your API key. The official documentation for using the API can be found on the [YouTube Data API documentation page](https://developers.google.com/youtube/v3).
+To begin, you will need to create a YouTube Data API Key, which serves as the credential for accessing YouTube data. Go to the Google Cloud console
+ to generate your API key. The official documentation for using the API can be found on the [YouTube Data API documentation page](https://developers.google.com/youtube/v3).
 
 ### 2. Set Up Jupyter Notebook
 
